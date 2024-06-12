@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Daniel+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Daniel+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="200" align="right">
+</div>
+
+
 
 #### Um pouco mais sobre mim
 ```javascript
