@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, Pode me chamar de Banks 👋
 
-<!--
-**banksdaniel/banksdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="background-color: #64748b; padding: 2rem; list-style: none;">
+      <ul>
+            <li>💻 - Desenvolvedor FullStack</li>
+      </ul>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Um pouco mais sobre mim
+```javascript
+const banksDaniel = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python"],
+  askMeAbout: ["web dev", "frontend dev", "backend dev", "aws services"],
+  technologies: {
+      frontend: ["Angular", "NestJS", "HTML", "CSS"],
+      backend: ["Python", "NodeJs", "JS", "TS"],
+  }
+}
+```
