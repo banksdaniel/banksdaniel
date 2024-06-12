@@ -1,10 +1,4 @@
-## Olá, Pode me chamar de Banks 👋
-
-<div style="background-color: #64748b; padding: 2rem; list-style: none;">
-      <ul>
-            <li>💻 - Desenvolvedor FullStack</li>
-      </ul>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Daniel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 #### Um pouco mais sobre mim
 ```javascript
@@ -18,3 +12,5 @@ const banksDaniel = {
   }
 }
 ```
+<br>
+<p align="right"><img src=https://komarev.com/ghpvc/?username=banksdaniel&color=blue></p>
