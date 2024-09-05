@@ -10,12 +10,18 @@
 const banksDaniel = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python"],
-  askMeAbout: ["web dev", "frontend dev", "backend dev", "aws services"],
+  askMeAbout: ["web dev", "frontend dev", "backend dev", "aws services", "CI/CD", "cloud Infrastructure", "devops automation"],
   technologies: {
-      frontend: ["Angular", "NestJS", "HTML", "CSS"],
-      backend: ["Python", "NodeJs", "JS", "TS"],
+    frontend: ["Angular", "NestJS", "HTML", "CSS"],
+    backend: ["Python", "NodeJs", "JS", "TS"],
+    devops: {
+      tools: ["Docker", "Kubernetes", "Terraform", "Ansible"],
+      ci_cd: ["GitLab CI", "GitHub Actions", "Jenkins"],
+      cloud: ["AWS", "Azure"]
+    }
   }
 }
+
 ```
 <br>
 
