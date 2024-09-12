@@ -14,7 +14,7 @@ const banksDaniel = {
   technologies: {
     frontend: ["Angular", "NestJS", "HTML", "CSS"],
     backend: ["Python", "NodeJs", "JS", "TS"],
-    devops: {
+    devops: { # {studing}
       tools: ["Docker", "Kubernetes", "Terraform", "Ansible"],
       ci_cd: ["GitLab CI", "GitHub Actions", "Jenkins"],
       cloud: ["AWS", "Azure"]
